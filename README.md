@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 Researcher in the field of power flow solution.
+- 🔭 Prospective ARM and FPGA Developer.
 - 🌱 Control and automation engineer.
-- 👯 I’m intersted in Python, C and Embedded Systems.
+- 👯 I am interested in feedback control topics, embedded systems, microelectronics, and C programming.
 - 📫 How to reach me: luizpedrob65@gmail.com
 - 📖 Federal University of Uberlândia
 
