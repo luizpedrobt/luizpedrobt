@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Prospective ARM and FPGA Developer.
+- 🔭 Prospective ARM and Xilinx FPGA Developer.
 - 🌱 Control and automation engineer.
 - 👯 I am interested in feedback control topics, embedded systems, microelectronics and C programming.
 - 📫 How to reach me: luizpedrob65@gmail.com
