@@ -17,7 +17,7 @@
 ##Tools and Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,python,arduino,c,c#,cpp,autocad," />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,python,arduino,c,cs,cpp,autocad," />
   </a>
 </p>
 
