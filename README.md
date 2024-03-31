@@ -14,14 +14,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpedrobt&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-##Tools and Technologies
+##Tools and Technologies 🧑‍💻
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,python,arduino,c,cs,cpp,autocad," />
   </a>
 </p>
 
-## Contact Me
+## Contact Me ☎️
 <div>
   <a href = "mailto:luizpedrob65@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-pedro-bittencourt-4319021b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
