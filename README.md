@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-##About me 💅
+## About me 💅
 - 💡 Prospective ARM and Xilinx FPGA Developer.
 - 🤖 Control and automation engineer.
 - 🔋 I am interested in feedback control topics, embedded systems, microelectronics and C programming.
@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpedrobt&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-##Tools and Technologies 🧑‍💻
+## Tools and Technologies 🧑‍💻
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,python,arduino,c,cs,cpp,autocad," />
