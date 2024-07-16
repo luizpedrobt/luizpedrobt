@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## About me 💅
+## About me 🙋‍♂️
 - 💡 Prospective ARM and Xilinx FPGA Developer.
 - 🤖 Control and automation engineer.
 - 🔋 I am interested in feedback control topics, embedded systems, microelectronics and C programming.
