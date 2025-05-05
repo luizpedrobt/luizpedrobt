@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-
 ## About me 🙋‍♂️
-- 💡 Prospective ARM and Xilinx FPGA Developer.
-- 🤖 Control and automation engineer.
-- 🔋 I am interested in feedback control topics, embedded systems, microelectronics and C programming.
-- 📫 How to reach me: luizpedrob65@gmail.com
-- 📖 Federal University of Uberlândia
+-💡 Aspiring embedded systems engineer focused on firmware development for STM32 microcontrollers.
+- 🤖 Control and automation engineer with a strong background in real-time systems and hardware integration.
+- 🔋 Passionate about microelectronics and low-level programming in C.
+- 🛠️ Enthusiast of ARM Cortex-M architectures.
+- 📫 Reach me at: luizpedrob65@gmail.com
+- 🎓 Federal University of Uberlândia
 
 - <div align="center">
   <a href="https://github.com/luizpedrobt">
